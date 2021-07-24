@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LiliBag
-- 👀 I’m interested in tech, robotics, Agile. I'm a certified scrum master. 
+- 👀 I’m interested in tech, robotics, Agile. I'm a certified scrum master. I'm expirienced in the field of law, finance and solar. I'm CS grad. 
 - 🌱 I’m currently learning to improve my knowledge of Python.
 - 📫 How to reach me l_bagramyan@mail.fhsu.edu
 
